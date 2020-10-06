@@ -1,4 +1,4 @@
-# 20 news group classification using distil-bert
+# 1. 20 newsgroup classification using distil-bert
 
 ## Objective
 The objective is to build classification models on 20 news group dataset. 
