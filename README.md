@@ -34,6 +34,7 @@ deactivate `source deactivate`
 2. Install required libraries.
 3. Open jupyter notebook and run the notebooks.
 
+
 ## Run model on google colab
 You can also run `distilbert_classification.ipynb` and `traditional_ml_models.ipynb` notebooks using google colab. 
 To run models on google colab, Upload 'data.zip' present in git repository to colab Files, uncomment below code present in notebooks and run it.
@@ -78,4 +79,6 @@ The results are as follows:
 
 
 
+# 2. Extract information from paystubs.
 
+I discussed my approach to the problem in [report.pdf](https://github.com/suhas-chowdary/20newsgroup/blob/master/report.pdf).
